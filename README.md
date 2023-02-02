@@ -1,4 +1,5 @@
 ![Build status](https://github.com/evolidev/bus/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/github/evolidev/bus/branch/main/graph/badge.svg?token=F1T68P1LVV)](https://codecov.io/github/evolidev/bus)
 
 Bus Package
 ===========
